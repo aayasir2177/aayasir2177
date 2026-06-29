@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">Junior SysAdmin | Home Labber | Seeking Remote Linux Support Role</h3>
 
-- 🌱 Currently learning: **Ansible and Docker**
+🌱 Currently learning: **Ansible and Docker**
 
-- 👨‍💻 Projects are available at [github.com/aayasir2177](https://github.com/aayasir2177)
+👨‍💻 Projects are available at [github.com/aayasir2177](https://github.com/aayasir2177)
 
-- 📫 Reach me at **aayasir217@gmail.com**
+📫 Reach me at **aayasir217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
