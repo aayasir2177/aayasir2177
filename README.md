@@ -16,5 +16,5 @@
 <h3 align="left">My Toolbox:</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,ubuntu,vim,bash,py,git,docker,nginx,ansible,grafana,prometheus,php,mysql,nodejs,mongodb,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,ubuntu,vim,bash,py,ansible,git,docker,nginx,grafana,prometheus,php,mysql,nodejs,mongodb,aws)](https://skillicons.dev)
 
