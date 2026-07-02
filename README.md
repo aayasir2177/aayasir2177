@@ -18,3 +18,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,ubuntu,vim,bash,py,ansible,git,docker,nginx,grafana,prometheus,php,mysql,nodejs,mongodb,aws)](https://skillicons.dev)
 
+<h3 align="left">Books I Read:</h3>
+
+<img src="https://github.com/user-attachments/assets/1bd49740-d724-4369-9002-0e55d5f638b8" width="150"/>
+<img src="https://github.com/user-attachments/assets/993f5b06-9e7a-4f5f-a510-78f786f70c16" width="187"/>
+
+
+
