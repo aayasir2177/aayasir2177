@@ -20,8 +20,10 @@
 
 <h3 align="left">Books I Read:</h3>
 
-<img src="https://github.com/user-attachments/assets/1bd49740-d724-4369-9002-0e55d5f638b8" width="150"/>
-<img src="https://github.com/user-attachments/assets/993f5b06-9e7a-4f5f-a510-78f786f70c16" width="187"/>
+<img alt="the linux pocket guidebook" src="https://github.com/user-attachments/assets/67d852fc-560b-4a3d-b510-8fd415c53609" width="150"/>
+<img alt="the linux command line" src="https://github.com/user-attachments/assets/96c6548e-48c9-4a38-af0b-dc31c8c504bf" width="187"/>
+
+
 
 
 
