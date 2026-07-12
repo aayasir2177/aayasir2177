@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">Aspiring DevOps Engineer | Homelabber | Seeking Remote Role</h3>
 
-🌱 Currently learning: **Ansible and Docker**
+🌱 Currently learning: **GitHub Actions and AWS**
 
 👨‍💻 Projects are available at [github.com/aayasir2177](https://github.com/aayasir2177)
 
