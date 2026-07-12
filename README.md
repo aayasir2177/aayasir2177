@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
-<h3 align="center">Junior SysAdmin | Home Labber | Seeking Remote Linux Support Role</h3>
+<h3 align="center">Aspiring DevOps Engineer | Homelabber | Seeking Remote Role</h3>
 
 🌱 Currently learning: **Ansible and Docker**
 
