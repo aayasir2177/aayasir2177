@@ -16,14 +16,4 @@
 <h3 align="left">My Toolbox:</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,ubuntu,vim,bash,py,ansible,git,docker,nginx,grafana,prometheus,php,mysql,nodejs,mongodb,aws)](https://skillicons.dev)
-
-<h3 align="left">Books I Read:</h3>
-
-<img alt="the linux pocket guidebook" src="https://github.com/user-attachments/assets/67d852fc-560b-4a3d-b510-8fd415c53609" width="150"/>
-<img alt="the linux command line" src="https://github.com/user-attachments/assets/96c6548e-48c9-4a38-af0b-dc31c8c504bf" width="187"/>
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,py,git,ansible,docker,kubernetes,nginx,prometheus,grafana,mysql,postgres,mongodb,nodejs,php,aws)](https://skillicons.dev)
