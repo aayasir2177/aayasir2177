@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,githubactions,docker,kubernetes,helm,argocd,ansible,terraform,aws,cloudflare,nginx,prometheus,grafana,py,postgres,redis,mongodb&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,kubernetes,ansible,terraform,aws,cloudflare,nginx,prometheus,grafana,py,postgres,mysql,sqlite,redis,mongodb&perline=10" alt="My Skills" />
   </a>
 </p>
