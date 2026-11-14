@@ -39,8 +39,4 @@
 * **Private Repository Access**: Scoped GitHub PAT in native K8s Secrets for private manifest pulling.
 * **Self-Healing Sync**: Automated drift correction and pruning keeping workloads aligned with Git.
 
-<p align="center">
-  <a href="https://github.com/aayasir2177/homeserver-gitops-" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repository-homeserver--gitops-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-  </a>
-</p>
+
