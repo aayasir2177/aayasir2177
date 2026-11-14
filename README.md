@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
-<h3 align="center">Aspiring DevOps Engineer | Homelabber | Seeking Remote Role</h3>
+<h3 align="center">Aspiring DevOps Engineer | K8s Enthusiast | Homelabber</h3>
 
-🌱 Currently learning: **GitHub Actions and AWS**
-
-👨‍💻 Projects are available at [github.com/aayasir2177](https://github.com/aayasir2177)
-
-📫 Reach me at **aayasir217@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://linkedin.com/in/aayasir217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayasir217" height="30" width="40" /></a> <a href="https://dev.to/aayasir217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayasir217" height="30" width="40" /></a>
+<p align="center">
+  🌱 Currently learning: <b>Kubernetes and GitOps</b><br>
+  📫 Reach me directly at: <a href="mailto:aayasir217@gmail.com"><b>aayasir217@gmail.com</b></a>
 </p>
 
-<h3 align="left">My Toolbox:</h3>
-<p align="left"> 
+<p align="center">
+  <a href="https://linkedin.com/in/aayasir217" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aayasir217@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,py,git,ansible,docker,kubernetes,nginx,prometheus,grafana,mysql,postgres,mongodb,nodejs,php,aws)](https://skillicons.dev)
+---
+
+<h3 align="center">My Toolbox</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,githubactions,docker,kubernetes,helm,argocd,ansible,terraform,aws,cloudflare,nginx,prometheus,grafana,py,postgres,redis,mongodb&perline=10" alt="My Skills" />
+  </a>
+</p>
