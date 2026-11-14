@@ -25,3 +25,22 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,kubernetes,ansible,terraform,aws,cloudflare,nginx,prometheus,grafana,py,postgres,mysql,sqlite,redis,mongodb&perline=10" alt="My Skills" />
   </a>
 </p>
+
+---
+
+<h3 align="center">Homelab GitOps Pipeline</h3>
+
+<p align="center">
+  <img src="docs/homelab_architecture.gif" alt="Homelab Architecture & GitOps Pipeline" width="100%" />
+</p>
+
+* **Zero-Delay GitOps**: Webhook-triggered ArgoCD sync reconciling commits in sub-5 seconds.
+* **Zero Inbound Ports**: Secure ingress via Cloudflare QUIC tunnel with no router port forwarding.
+* **Private Repository Access**: Scoped GitHub PAT in native K8s Secrets for private manifest pulling.
+* **Self-Healing Sync**: Automated drift correction and pruning keeping workloads aligned with Git.
+
+<p align="center">
+  <a href="https://github.com/aayasir2177/homeserver-gitops-" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repository-homeserver--gitops-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
