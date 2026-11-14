@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">Homelab GitOps Pipeline</h3>
+<h3 align="center">My Homelab</h3>
 
 <p align="center">
   <img src="docs/homelab_architecture.gif" alt="Homelab Architecture & GitOps Pipeline" width="100%" />
